@@ -1,0 +1,7 @@
+C:\Users\dbarc\OneDrive\Masaüstü\C#\CSharp\10_Bankamatik\bin\Debug\10_Bankamatik.exe.config
+C:\Users\dbarc\OneDrive\Masaüstü\C#\CSharp\10_Bankamatik\bin\Debug\10_Bankamatik.exe
+C:\Users\dbarc\OneDrive\Masaüstü\C#\CSharp\10_Bankamatik\bin\Debug\10_Bankamatik.pdb
+C:\Users\dbarc\OneDrive\Masaüstü\C#\CSharp\10_Bankamatik\obj\Debug\10_Bankamatik.csproj.AssemblyReference.cache
+C:\Users\dbarc\OneDrive\Masaüstü\C#\CSharp\10_Bankamatik\obj\Debug\10_Bankamatik.csproj.CoreCompileInputs.cache
+C:\Users\dbarc\OneDrive\Masaüstü\C#\CSharp\10_Bankamatik\obj\Debug\10_Bankamatik.exe
+C:\Users\dbarc\OneDrive\Masaüstü\C#\CSharp\10_Bankamatik\obj\Debug\10_Bankamatik.pdb

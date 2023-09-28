@@ -1,0 +1,6 @@
+Şifre = ab18
+
+TC kimlik no = 12345678911
+Kredi kartı no = 012345678912
+Telefon no = 5395395353
+Hesap no = 12345678911
